@@ -33,7 +33,7 @@
     "gulp-scss-lint-stylish": "^1.0.0",
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.6.0",
-    "underscore": "^1.8.3"
+    "lodash": "^4.5.1"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
