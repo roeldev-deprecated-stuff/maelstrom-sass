@@ -33,6 +33,7 @@
     "gulp-scss-lint-stylish": "^1.0.0",
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.6.0",
+    "gulp-wait": "0.0.2",
     "lodash": "^4.5.1"
   },
   "devDependencies": {
