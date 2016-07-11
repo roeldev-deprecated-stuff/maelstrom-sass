@@ -27,6 +27,7 @@
     "gulp-autoprefixer": "^3.0.2",
     "gulp-cssnano": "^2.1.0",
     "gulp-if": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
     "gulp-replace": "^0.5.4",
     "gulp-sass": "^2.0.4",
     "gulp-scss-lint": "^0.3.4",
@@ -34,7 +35,8 @@
     "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-wait": "0.0.2",
-    "lodash": "^4.5.1"
+    "lodash": "^4.5.1",
+    "sass-true": "^2.0.3"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
